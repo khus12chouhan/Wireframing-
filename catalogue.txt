@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="frame">
+      <div class="div">
+        <div class="overlap">
+          <div class="group"><img class="home" src="img/home.svg" /></div>
+        </div>
+        <div class="overlap-group"><img class="filter" src="img/filter.svg" /></div>
+        <div class="rectangle"></div>
+        <div class="rectangle-2"></div>
+        <div class="rectangle-3"></div>
+        <div class="rectangle-4"></div>
+        <div class="rectangle-5"></div>
+        <div class="rectangle-6"></div>
+        <div class="rectangle-7"></div>
+        <div class="rectangle-8"></div>
+        <div class="rectangle-9"></div>
+        <div class="rectangle-10"></div>
+        <div class="rectangle-11"></div>
+        <div class="rectangle-12"></div>
+        <div class="rectangle-13"></div>
+        <div class="rectangle-14"></div>
+        <div class="rectangle-15"></div>
+        <div class="rectangle-16"></div>
+        <div class="rectangle-17"></div>
+        <div class="rectangle-18"></div>
+      </div>
+    </div>
+  </body>
+</html>
